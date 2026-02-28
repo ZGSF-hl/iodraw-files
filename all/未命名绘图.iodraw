@@ -11,10 +11,10 @@
           <mxGeometry x="212.5" y="680" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-3" value="获取当前学生信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="215.5" y="750" width="140" height="110" as="geometry" />
+          <mxGeometry x="214" y="760" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-4" value="查询宿舍 ID" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="214" y="950" width="143" height="48" as="geometry" />
+          <mxGeometry x="212.5" y="900" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-5" value="后端查询宿舍信息和床位分配" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="157" y="1132" width="253" height="66" as="geometry" />
