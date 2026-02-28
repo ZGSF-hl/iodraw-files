@@ -23,7 +23,7 @@
           <mxGeometry x="130" y="1110" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-7" value="选择刷新页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="214" y="1310" width="144" height="144" as="geometry" />
+          <mxGeometry x="160" y="1280" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-8" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="221" y="1563" width="125" height="48" as="geometry" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3pJDEx0pRf4HafFg2a6-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0;entryX=0.66;entryY=0.99;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-7" target="f3pJDEx0pRf4HafFg2a6-5" edge="1">
+        <mxCell id="f3pJDEx0pRf4HafFg2a6-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.66;entryY=0.99;rounded=0;exitDx=0;exitDy=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-7" target="f3pJDEx0pRf4HafFg2a6-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="353" y="1321" />
