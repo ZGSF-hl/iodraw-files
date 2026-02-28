@@ -20,7 +20,7 @@
           <mxGeometry x="157.5" y="970" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-6" value="前端展示宿舍详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1248" width="188" height="48" as="geometry" />
+          <mxGeometry x="130" y="1140" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-7" value="选择刷新页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="211" y="1346" width="144" height="144" as="geometry" />
