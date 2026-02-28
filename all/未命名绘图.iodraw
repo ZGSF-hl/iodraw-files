@@ -17,7 +17,7 @@
           <mxGeometry x="212.5" y="900" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-5" value="后端查询宿舍信息和床位分配" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="157.5" y="970" width="253" height="66" as="geometry" />
+          <mxGeometry x="156.5" y="970" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-6" value="前端展示宿舍详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="1140" width="188" height="48" as="geometry" />
@@ -46,13 +46,6 @@
         <mxCell id="f3pJDEx0pRf4HafFg2a6-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-4" target="f3pJDEx0pRf4HafFg2a6-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f3pJDEx0pRf4HafFg2a6-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-5" target="f3pJDEx0pRf4HafFg2a6-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="214" y="1223" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-6" target="f3pJDEx0pRf4HafFg2a6-7" edge="1">
