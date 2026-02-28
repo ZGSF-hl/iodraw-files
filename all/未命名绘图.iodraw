@@ -20,7 +20,7 @@
           <mxGeometry x="157.5" y="970" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-6" value="前端展示宿舍详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1220" width="188" height="48" as="geometry" />
+          <mxGeometry x="130" y="1110" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-7" value="选择刷新页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="211" y="1346" width="144" height="144" as="geometry" />
@@ -48,13 +48,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3pJDEx0pRf4HafFg2a6-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-5" target="f3pJDEx0pRf4HafFg2a6-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="214" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f3pJDEx0pRf4HafFg2a6-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-6" target="f3pJDEx0pRf4HafFg2a6-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -73,6 +66,12 @@
         <mxCell id="f3pJDEx0pRf4HafFg2a6-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="f3pJDEx0pRf4HafFg2a6-7" target="f3pJDEx0pRf4HafFg2a6-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0oFksFBmca9FHR2oL2V-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1240" as="sourcePoint" />
+            <mxPoint x="470" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
