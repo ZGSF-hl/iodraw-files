@@ -26,7 +26,7 @@
           <mxGeometry x="165" y="414" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-26" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="510" width="94" height="48" as="geometry" />
+          <mxGeometry x="440" y="462" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-22" target="bxy3zXzzSYMepKCnIfQB-23">
           <mxGeometry relative="1" as="geometry">
@@ -34,11 +34,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-24" target="bxy3zXzzSYMepKCnIfQB-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-25" target="bxy3zXzzSYMepKCnIfQB-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
