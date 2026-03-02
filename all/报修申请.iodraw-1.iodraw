@@ -22,8 +22,11 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="289" y="356" width="151" height="151" as="geometry" />
         </mxCell>
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-6" target="RhWsTmGOmXV8ZkQT-bMT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-6" value="提示补充信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="432" width="157" height="48" as="geometry" />
+          <mxGeometry x="45" y="407.5" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="560" width="157" height="48" as="geometry" />
