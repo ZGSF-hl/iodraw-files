@@ -8,7 +8,7 @@
           <mxGeometry x="1357" y="130" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-155" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1090" width="99" height="99" as="geometry" />
+          <mxGeometry x="1654" y="61" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-156" value="楼宇 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-50" width="66" height="66" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="1250" y="50" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-159" value="最大容纳人数" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="910" y="360" width="112" height="112" as="geometry" />
+          <mxGeometry x="1603" y="-51" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-160" value="当前入住人数" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="112" height="112" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="1450" y="290" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-163" value="三号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="205" width="95" height="95" as="geometry" />
+          <mxGeometry x="1559" y="250" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-164" value="四号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="114" width="95" height="95" as="geometry" />
+          <mxGeometry x="1620" y="160" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-165" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1233" y="220" width="80" height="80" as="geometry" />
