@@ -14,7 +14,7 @@
           <mxGeometry x="-40" y="270" width="212" height="212" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-93" value="分配管理楼栋" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="601" y="102" width="126" height="48" as="geometry" />
+          <mxGeometry x="200" y="352" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-94" value="更新状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="777" y="102" width="94" height="48" as="geometry" />
