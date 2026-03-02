@@ -17,16 +17,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-51" value="维护宿舍信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="174" y="150" width="126" height="48" as="geometry" />
+          <mxGeometry x="174" y="130" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-52" target="bxy3zXzzSYMepKCnIfQB-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-52" value="更新房间状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="174" y="220" width="126" height="48" as="geometry" />
+          <mxGeometry x="174" y="200" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-53" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="205" y="290" width="64" height="48" as="geometry" />
+          <mxGeometry x="205" y="270" width="64" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-49" target="bxy3zXzzSYMepKCnIfQB-50">
           <mxGeometry relative="1" as="geometry">
