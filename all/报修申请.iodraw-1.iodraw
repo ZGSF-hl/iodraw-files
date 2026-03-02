@@ -11,7 +11,7 @@
           <mxGeometry x="82" y="90" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-3" value="新增报修" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="89" y="217" width="113" height="113" as="geometry" />
+          <mxGeometry x="89" y="160" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-4" value="填写报修标题、故障详情、宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="380" width="252" height="66" as="geometry" />
