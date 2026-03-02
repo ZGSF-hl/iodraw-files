@@ -20,7 +20,7 @@
           <mxGeometry x="209" y="480" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-6" value="提示补充信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="620" width="157" height="48" as="geometry" />
+          <mxGeometry x="30" y="432" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="251" y="719" width="157" height="48" as="geometry" />
