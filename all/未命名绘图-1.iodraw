@@ -43,10 +43,24 @@
         <mxCell id="eNCo281DgPEdL5TKnBAe-166" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2158" y="245" width="79" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="eNCo281DgPEdL5TKnBAe-174" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-154" target="eNCo281DgPEdL5TKnBAe-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1641" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-175" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-154" target="eNCo281DgPEdL5TKnBAe-163">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1786" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNCo281DgPEdL5TKnBAe-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-154" target="eNCo281DgPEdL5TKnBAe-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1931" y="203" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,9 +71,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-179" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eNCo281DgPEdL5TKnBAe-177">
-          <mxGeometry x="-0.641" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="eNCo281DgPEdL5TKnBAe-178" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-154" target="eNCo281DgPEdL5TKnBAe-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2198" y="203" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
