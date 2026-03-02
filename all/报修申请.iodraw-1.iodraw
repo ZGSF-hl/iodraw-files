@@ -103,7 +103,7 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-36" value="未完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-39" value="已完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
