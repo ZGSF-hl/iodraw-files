@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-23" value="查看故障详情" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="144" height="144" as="geometry" />
+          <mxGeometry x="384" y="230" width="132" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-24" value="标记维修完成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="145" height="145" as="geometry" />
+          <mxGeometry x="170" y="230" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-25" target="bxy3zXzzSYMepKCnIfQB-26">
           <mxGeometry relative="1" as="geometry" />
