@@ -8,10 +8,10 @@
           <mxGeometry x="100" y="128" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-108" value="新增 / 编辑公告" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="243" y="128" width="144" height="48" as="geometry" />
+          <mxGeometry x="80" y="200" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-109" value="填写公告内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="437" y="80" width="144" height="144" as="geometry" />
+          <mxGeometry x="80" y="270" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-110" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="631" y="128" width="125" height="48" as="geometry" />
