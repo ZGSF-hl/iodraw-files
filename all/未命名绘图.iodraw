@@ -11,13 +11,13 @@
           <mxGeometry x="230" y="50" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-37" value="查看学生详情" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="237" width="126" height="48" as="geometry" />
+          <mxGeometry x="230" y="130" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-38" value="维护学生信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="335" width="126" height="48" as="geometry" />
+          <mxGeometry x="36" y="130" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-39" value="数据更新" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="36" y="434" width="94" height="48" as="geometry" />
+          <mxGeometry x="52" y="230" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-40" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="532" width="94" height="48" as="geometry" />
