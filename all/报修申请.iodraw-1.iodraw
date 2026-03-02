@@ -38,7 +38,7 @@
           <mxGeometry x="286" y="560" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-8" value="后端保存报修数据，状态设为未完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="251" y="630" width="253" height="66" as="geometry" />
+          <mxGeometry x="238" y="630" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-9" value="学生查看报修订单状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="720" width="220" height="48" as="geometry" />
@@ -111,8 +111,8 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-33" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
