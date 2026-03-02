@@ -14,10 +14,10 @@
           <mxGeometry x="1360" y="-50" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-157" value="楼层" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="915" y="261" width="47" height="47" as="geometry" />
+          <mxGeometry x="1310" y="-10" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-158" value="房间号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="253" width="63" height="63" as="geometry" />
+          <mxGeometry x="1250" y="50" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-159" value="最大容纳人数" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1125" y="228" width="112" height="112" as="geometry" />
