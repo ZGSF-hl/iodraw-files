@@ -17,19 +17,19 @@
           <mxGeometry x="743" y="393" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-77" value="用户性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="520" width="79" height="79" as="geometry" />
+          <mxGeometry x="660" y="506" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-78" value="联系方式" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="673" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-79" value="身份证" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="448.5" width="63" height="63" as="geometry" />
+          <mxGeometry x="690" y="430" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-80" value="民族" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="868.5" y="373" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-81" value="班级 id" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="790" y="770.5" width="66" height="66" as="geometry" />
+          <mxGeometry x="803" y="737" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-82" value="入学日期" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="361" width="79" height="79" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="869" y="770.5" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-86" value="修改时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="710" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="720" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-87" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1060" y="480" width="80" height="80" as="geometry" />
