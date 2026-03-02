@@ -52,20 +52,6 @@
         <mxCell id="eNCo281DgPEdL5TKnBAe-88" value="是否删除" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1704" y="678" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-73" target="eNCo281DgPEdL5TKnBAe-74">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="44" y="653" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-73" target="eNCo281DgPEdL5TKnBAe-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="157" y="653" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-73" target="eNCo281DgPEdL5TKnBAe-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
