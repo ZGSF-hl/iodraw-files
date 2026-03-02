@@ -14,10 +14,10 @@
           <mxGeometry x="89" y="160" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-4" value="填写报修标题、故障详情、宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="380" width="252" height="66" as="geometry" />
+          <mxGeometry x="19.5" y="290" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="214" y="496" width="151" height="151" as="geometry" />
+          <mxGeometry x="209" y="480" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-6" value="提示补充信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="719" width="157" height="48" as="geometry" />
