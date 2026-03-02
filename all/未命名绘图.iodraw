@@ -17,12 +17,10 @@
           <mxGeometry x="20" y="500" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-161" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="561" width="94" height="48" as="geometry" />
+          <mxGeometry x="51.5" y="584.5" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-160" target="bxy3zXzzSYMepKCnIfQB-161">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-159" target="bxy3zXzzSYMepKCnIfQB-160">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
