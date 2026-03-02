@@ -4,6 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-137" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="68" y="120" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-138" value="查看全量调宿申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="218" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-139" value="查询审核状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="317" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-140" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="67" y="415" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-137" target="bxy3zXzzSYMepKCnIfQB-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-138" target="bxy3zXzzSYMepKCnIfQB-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-139" target="bxy3zXzzSYMepKCnIfQB-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
