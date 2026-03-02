@@ -11,10 +11,10 @@
           <mxGeometry x="20" y="90" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-12" value="查看申请详情" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="26.5" y="160" width="144" height="144" as="geometry" />
+          <mxGeometry x="26.5" y="160" width="144" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-13" value="执行审核" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="42" y="411" width="113" height="113" as="geometry" />
+          <mxGeometry x="42" y="280" width="113" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-14" value="更新申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="21" y="597" width="156" height="48" as="geometry" />
