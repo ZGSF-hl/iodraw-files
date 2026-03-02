@@ -4,38 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-107" target="bxy3zXzzSYMepKCnIfQB-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-107" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="128" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-108" target="bxy3zXzzSYMepKCnIfQB-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-108" value="新增 / 编辑公告" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="200" width="144" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-109" target="bxy3zXzzSYMepKCnIfQB-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-109" value="填写公告内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="83.75" y="270" width="125.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-110" target="bxy3zXzzSYMepKCnIfQB-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-110" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84.25" y="380" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-111" target="bxy3zXzzSYMepKCnIfQB-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-111" value="查看公告列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-112" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="281" y="380" width="94" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
