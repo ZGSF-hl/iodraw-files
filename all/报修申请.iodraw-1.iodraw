@@ -32,7 +32,7 @@
           <mxGeometry x="267.5" y="720" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-10" value="继续查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="140" y="1100" width="94" height="48" as="geometry" />
+          <mxGeometry x="115" y="720" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-11" value="展示完成状态与完成时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289" y="850" width="237" height="48" as="geometry" />
@@ -96,10 +96,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-22" value="未完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.8;entryY=0.01;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-9" target="RhWsTmGOmXV8ZkQT-bMT-10">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.8756" y="4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="249" y="1018" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.01;entryX=0.18;entryY=1;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-10" target="RhWsTmGOmXV8ZkQT-bMT-9">
