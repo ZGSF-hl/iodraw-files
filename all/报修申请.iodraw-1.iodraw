@@ -56,7 +56,7 @@
           <mxGeometry x="89" y="720" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-11" value="展示完成状态与完成时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="850" width="237" height="48" as="geometry" />
+          <mxGeometry x="300" y="820" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-12" value="流程结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="360" y="930" width="95" height="48" as="geometry" />
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-36" value="未完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
