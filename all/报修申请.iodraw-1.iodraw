@@ -26,10 +26,10 @@
           <mxGeometry x="299" y="560" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-8" value="后端保存报修数据，状态设为未完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="251" y="660" width="253" height="66" as="geometry" />
+          <mxGeometry x="251" y="630" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-9" value="学生查看报修订单状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="934" width="220" height="48" as="geometry" />
+          <mxGeometry x="271.5" y="740" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-10" value="继续查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="131" y="1054" width="94" height="48" as="geometry" />
