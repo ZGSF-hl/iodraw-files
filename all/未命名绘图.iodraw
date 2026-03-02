@@ -4,6 +4,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-49" value="开始" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="63" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-50" value="查看楼宇与房间信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="133" y="20" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-51" value="维护宿舍信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="357" y="20" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-52" value="更新房间状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="533" y="20" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-53" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="709" y="20" width="64" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-49" target="bxy3zXzzSYMepKCnIfQB-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-50" target="bxy3zXzzSYMepKCnIfQB-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-51" target="bxy3zXzzSYMepKCnIfQB-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-52" target="bxy3zXzzSYMepKCnIfQB-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
