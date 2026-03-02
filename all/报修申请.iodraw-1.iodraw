@@ -32,13 +32,13 @@
           <mxGeometry x="267.5" y="720" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-10" value="继续查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="131" y="1054" width="94" height="48" as="geometry" />
+          <mxGeometry x="140" y="1100" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-11" value="展示完成状态与完成时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1010" width="237" height="48" as="geometry" />
+          <mxGeometry x="289" y="850" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-12" value="流程结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="346" y="1153" width="95" height="48" as="geometry" />
+          <mxGeometry x="360" y="960" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-1" target="RhWsTmGOmXV8ZkQT-bMT-2">
           <mxGeometry relative="1" as="geometry">
