@@ -1,43 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ADeaerhTzLs-Rig78LSI">
-    <mxGraphModel dx="477" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="60" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-2" value="点击卫生检查" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="35.5" y="130" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-3" value="获取宿舍 ID" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="33" y="200" width="131" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-4" value="展示检查记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-5" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="380" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-1" target="bxy3zXzzSYMepKCnIfQB-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-2" target="bxy3zXzzSYMepKCnIfQB-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-3" target="bxy3zXzzSYMepKCnIfQB-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-4" target="bxy3zXzzSYMepKCnIfQB-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
