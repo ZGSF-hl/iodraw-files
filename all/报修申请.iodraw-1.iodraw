@@ -19,6 +19,9 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-4" value="填写报修标题、故障详情、宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19.5" y="290" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-5" target="RhWsTmGOmXV8ZkQT-bMT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="289" y="356" width="151" height="151" as="geometry" />
         </mxCell>
