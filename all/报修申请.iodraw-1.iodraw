@@ -8,7 +8,7 @@
           <mxGeometry x="68" y="20" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-2" value="报修申请页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="83" y="118" width="127" height="48" as="geometry" />
+          <mxGeometry x="82" y="90" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-3" value="新增报修" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="89" y="217" width="113" height="113" as="geometry" />
