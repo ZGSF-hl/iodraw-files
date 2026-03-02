@@ -16,11 +16,14 @@
         <mxCell id="bxy3zXzzSYMepKCnIfQB-108" value="新增 / 编辑公告" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="74.5" y="200" width="144" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="bxy3zXzzSYMepKCnIfQB-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-109" target="bxy3zXzzSYMepKCnIfQB-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-109" value="填写公告内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="83.75" y="270" width="125.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-110" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93.5" y="390" width="125" height="48" as="geometry" />
+          <mxGeometry x="84.25" y="380" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-111" value="查看公告列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="368" y="440" width="156" height="48" as="geometry" />
