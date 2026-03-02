@@ -17,7 +17,7 @@
           <mxGeometry x="42" y="280" width="113" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-14" value="更新申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="21" y="597" width="156" height="48" as="geometry" />
+          <mxGeometry x="20" y="410" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-15" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="695" width="94" height="48" as="geometry" />
