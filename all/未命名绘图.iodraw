@@ -8,7 +8,7 @@
           <mxGeometry x="37" y="40" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-36" value="查询学生信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="138" width="126" height="48" as="geometry" />
+          <mxGeometry x="230" y="50" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-37" value="查看学生详情" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="237" width="126" height="48" as="geometry" />
