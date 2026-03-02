@@ -29,13 +29,13 @@
           <mxGeometry x="1340" y="265" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-162" value="二号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1482" y="265" width="95" height="95" as="geometry" />
+          <mxGeometry x="1450" y="290" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-163" value="三号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1739" y="237" width="95" height="95" as="geometry" />
+          <mxGeometry x="1580" y="205" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-164" value="四号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1884" y="237" width="95" height="95" as="geometry" />
+          <mxGeometry x="1640" y="114" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-165" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1233" y="220" width="80" height="80" as="geometry" />
