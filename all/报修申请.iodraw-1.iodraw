@@ -35,7 +35,7 @@
           <mxGeometry x="45" y="407.5" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="286" y="560" width="157" height="48" as="geometry" />
+          <mxGeometry x="286" y="530" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-8" value="后端保存报修数据，状态设为未完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="238" y="630" width="253" height="66" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="300" y="820" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-12" value="流程结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="360" y="930" width="95" height="48" as="geometry" />
+          <mxGeometry x="371" y="890" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-1" target="RhWsTmGOmXV8ZkQT-bMT-2">
           <mxGeometry relative="1" as="geometry">
@@ -94,9 +94,6 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-30" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="425.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-33" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="520" width="60" height="30" as="geometry" />
         </mxCell>
@@ -104,7 +101,7 @@
           <mxGeometry x="194.5" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-39" value="已完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="414.5" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
