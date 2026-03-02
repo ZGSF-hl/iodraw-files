@@ -11,10 +11,10 @@
           <mxGeometry x="35.5" y="130" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-3" value="获取宿舍 ID" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="33" y="257" width="131" height="131" as="geometry" />
+          <mxGeometry x="33" y="200" width="131" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-4" value="展示检查记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="438" width="157" height="48" as="geometry" />
+          <mxGeometry x="20" y="310" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-5" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="537" width="94" height="48" as="geometry" />
