@@ -8,10 +8,10 @@
           <mxGeometry x="20" y="110" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-124" value="查询系统信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="110" width="156" height="48" as="geometry" />
+          <mxGeometry x="20" y="190" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-125" value="维护基础数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="369" y="110" width="156" height="48" as="geometry" />
+          <mxGeometry x="20" y="290" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-126" value="数据更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="110" width="124" height="48" as="geometry" />
