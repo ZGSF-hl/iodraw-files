@@ -13,6 +13,9 @@
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-3" value="新增报修" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="89" y="160" width="113" height="113" as="geometry" />
         </mxCell>
+        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-4" target="RhWsTmGOmXV8ZkQT-bMT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-4" value="填写报修标题、故障详情、宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19.5" y="290" width="252" height="66" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="289" y="850" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-12" value="流程结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="360" y="960" width="95" height="48" as="geometry" />
+          <mxGeometry x="360" y="930" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-1" target="RhWsTmGOmXV8ZkQT-bMT-2">
           <mxGeometry relative="1" as="geometry">
