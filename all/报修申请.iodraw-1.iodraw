@@ -41,10 +41,10 @@
           <mxGeometry x="238" y="630" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-9" value="学生查看报修订单状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="720" width="220" height="48" as="geometry" />
+          <mxGeometry x="254.5" y="720" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-10" value="继续查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="115" y="720" width="94" height="48" as="geometry" />
+          <mxGeometry x="89" y="720" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-11" value="展示完成状态与完成时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289" y="850" width="237" height="48" as="geometry" />
