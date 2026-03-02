@@ -58,26 +58,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-4" target="RhWsTmGOmXV8ZkQT-bMT-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="471" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-5" target="RhWsTmGOmXV8ZkQT-bMT-6">
           <mxGeometry x="0.6101" y="-12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="234" y="683" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RhWsTmGOmXV8ZkQT-bMT-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.45;entryY=1;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-6" target="RhWsTmGOmXV8ZkQT-bMT-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="123" y="471" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RhWsTmGOmXV8ZkQT-bMT-5" target="RhWsTmGOmXV8ZkQT-bMT-7">
