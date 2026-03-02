@@ -23,7 +23,7 @@
           <mxGeometry x="30" y="432" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="251" y="719" width="157" height="48" as="geometry" />
+          <mxGeometry x="290" y="680" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RhWsTmGOmXV8ZkQT-bMT-8" value="后端保存报修数据，状态设为未完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="818" width="253" height="66" as="geometry" />
