@@ -17,16 +17,16 @@
           <mxGeometry x="755.5" y="420" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-77" value="用户性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="549" width="79" height="79" as="geometry" />
+          <mxGeometry x="660" y="540" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-78" value="联系方式" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="649" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="659" y="628" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-79" value="身份证" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="700" y="467" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-80" value="民族" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="891" y="420" width="47" height="47" as="geometry" />
+          <mxGeometry x="868.5" y="373" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-81" value="班级 id" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="744" width="66" height="66" as="geometry" />
