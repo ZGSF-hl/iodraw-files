@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ADeaerhTzLs-Rig78LSI">
-    <mxGraphModel dx="604" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="175" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-154" value="宿舍房间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1357" y="130" width="125" height="48" as="geometry" />
+          <mxGeometry x="1420" y="140" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-155" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1654" y="61" width="99" height="99" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="1360" y="-50" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-157" value="楼层" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-10" width="47" height="47" as="geometry" />
+          <mxGeometry x="1310" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-158" value="房间号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1250" y="50" width="63" height="63" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1603" y="-51" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-160" value="当前入住人数" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="200" width="112" height="112" as="geometry" />
+          <mxGeometry x="1460" y="-96" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-161" value="一号床学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1340" y="265" width="95" height="95" as="geometry" />
