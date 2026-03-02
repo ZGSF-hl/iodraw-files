@@ -17,7 +17,7 @@
           <mxGeometry x="390" y="230" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-24" value="标记维修完成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="587" width="145" height="145" as="geometry" />
+          <mxGeometry x="170" y="230" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-25" value="更新订单状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="782" width="144" height="144" as="geometry" />
@@ -26,11 +26,6 @@
           <mxGeometry x="216" y="977" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-22" target="bxy3zXzzSYMepKCnIfQB-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-23" target="bxy3zXzzSYMepKCnIfQB-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
