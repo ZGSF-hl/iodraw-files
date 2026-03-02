@@ -26,12 +26,7 @@
           <mxGeometry x="3.5" y="450" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-95" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="216" y="510" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="bxy3zXzzSYMepKCnIfQB-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-92" target="bxy3zXzzSYMepKCnIfQB-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="30" y="510" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-93" target="bxy3zXzzSYMepKCnIfQB-94">
           <mxGeometry relative="1" as="geometry">
