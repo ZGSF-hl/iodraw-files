@@ -11,7 +11,7 @@
           <mxGeometry x="172.5" y="170" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-146" value="查询 / 导出记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="240" width="162" height="162" as="geometry" />
+          <mxGeometry x="191.75" y="240" width="119.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-147" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="204" y="509" width="94" height="48" as="geometry" />
