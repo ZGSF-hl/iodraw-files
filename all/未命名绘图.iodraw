@@ -26,10 +26,10 @@
           <mxGeometry x="84.25" y="380" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-111" value="查看公告列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="368" y="440" width="156" height="48" as="geometry" />
+          <mxGeometry x="240" y="300" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-112" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="574" y="440" width="94" height="48" as="geometry" />
+          <mxGeometry x="271" y="380" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bxy3zXzzSYMepKCnIfQB-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="bxy3zXzzSYMepKCnIfQB-110" target="bxy3zXzzSYMepKCnIfQB-111">
           <mxGeometry relative="1" as="geometry">
