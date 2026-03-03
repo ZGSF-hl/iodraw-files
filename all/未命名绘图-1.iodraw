@@ -17,16 +17,16 @@
           <mxGeometry x="715" y="368" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-334" value="检查原因" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="844" y="368" width="79" height="79" as="geometry" />
+          <mxGeometry x="980" y="500" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-335" value="检查人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="936" y="420" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-336" value="检查时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="368" width="79" height="79" as="geometry" />
+          <mxGeometry x="990" y="600" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-337" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="368" width="79" height="79" as="geometry" />
+          <mxGeometry x="928" y="700" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
