@@ -85,16 +85,16 @@
             <mxPoint x="1440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-233" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eNCo281DgPEdL5TKnBAe-233" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eNCo281DgPEdL5TKnBAe-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1674" y="510" as="sourcePoint" />
-            <mxPoint x="1724" y="460" as="targetPoint" />
+            <mxPoint x="1311" y="410" as="sourcePoint" />
+            <mxPoint x="1361" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-234" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1684" y="520" as="sourcePoint" />
-            <mxPoint x="1734" y="470" as="targetPoint" />
+            <mxPoint x="1266" y="350" as="sourcePoint" />
+            <mxPoint x="1316" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-235" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
