@@ -17,10 +17,10 @@
           <mxGeometry x="450" y="385" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-382" value="姓名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="322" width="47" height="47" as="geometry" />
+          <mxGeometry x="520" y="344" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-383" value="性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="567" y="321" width="48" height="48" as="geometry" />
+          <mxGeometry x="623" y="377" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-384" value="年龄" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="664" y="321" width="48" height="48" as="geometry" />
