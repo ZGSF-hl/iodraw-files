@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-510" value="系统公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="124" height="48" as="geometry" />
+          <mxGeometry x="414" y="550" width="84" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-511" value="公告 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="504" y="450" width="66" height="66" as="geometry" />
+          <mxGeometry x="530" y="440" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-512" value="公告标题" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="226" y="379" width="79" height="79" as="geometry" />
+          <mxGeometry x="290" y="458" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-513" value="公告内容" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="524.5" width="79" height="79" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="405" y="650" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-517" value="删除标识" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="857" y="379" width="79" height="79" as="geometry" />
+          <mxGeometry x="280" y="620" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
