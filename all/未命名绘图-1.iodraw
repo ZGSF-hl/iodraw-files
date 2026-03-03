@@ -26,7 +26,7 @@
           <mxGeometry x="1461" y="220" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-247" value="订单状态" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1491" y="313" width="79" height="79" as="geometry" />
+          <mxGeometry x="1499" y="300" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-248" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1490" y="400" width="80" height="80" as="geometry" />
@@ -109,7 +109,7 @@
             <mxPoint x="1090" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-273" value="" style="endArrow=none;html=1;rounded=0;entryX=0.076;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eNCo281DgPEdL5TKnBAe-247">
+        <mxCell id="eNCo281DgPEdL5TKnBAe-273" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1435" y="370" as="sourcePoint" />
             <mxPoint x="1485" y="320" as="targetPoint" />
