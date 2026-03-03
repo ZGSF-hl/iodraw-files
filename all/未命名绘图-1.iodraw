@@ -14,7 +14,7 @@
           <mxGeometry x="242" y="305" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-381" value="密码" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="372" y="321" width="48" height="48" as="geometry" />
+          <mxGeometry x="450" y="385" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-382" value="姓名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="470" y="322" width="47" height="47" as="geometry" />
