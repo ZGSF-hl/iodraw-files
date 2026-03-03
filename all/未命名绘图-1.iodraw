@@ -26,13 +26,13 @@
           <mxGeometry x="1162" y="260" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-203" value="调宿原因" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1641" y="128" width="79" height="79" as="geometry" />
+          <mxGeometry x="1220" y="380" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-204" value="申请状态" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="128" width="79" height="79" as="geometry" />
+          <mxGeometry x="1335" y="390" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-205" value="审核结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1899" y="128" width="79" height="79" as="geometry" />
+          <mxGeometry x="1510" y="290" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-206" value="申请时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2028" y="128" width="79" height="79" as="geometry" />
