@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-480" value="超级管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="540" width="141" height="48" as="geometry" />
+          <mxGeometry x="510" y="561" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-481" value="管理员 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="670" width="82" height="82" as="geometry" />
+          <mxGeometry x="414" y="620" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-482" value="管理员账号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="530" width="85" height="85" as="geometry" />
+          <mxGeometry x="400" y="476" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-483" value="密码" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="417" width="48" height="48" as="geometry" />
