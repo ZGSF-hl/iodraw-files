@@ -14,16 +14,16 @@
           <mxGeometry x="282" y="378" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-483" value="密码" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="430" width="48" height="48" as="geometry" />
+          <mxGeometry x="490" y="417" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-484" value="姓名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="402.5" width="47" height="47" as="geometry" />
+          <mxGeometry x="564" y="402.5" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-485" value="手机号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="622" y="394" width="63" height="63" as="geometry" />
+          <mxGeometry x="680" y="510" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-486" value="邮箱" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="735" y="402" width="47" height="47" as="geometry" />
+          <mxGeometry x="640" y="449.5" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-487" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="832" y="386" width="80" height="80" as="geometry" />
