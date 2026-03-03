@@ -14,10 +14,10 @@
           <mxGeometry x="226" y="379" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-513" value="公告内容" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="355" y="379" width="79" height="79" as="geometry" />
+          <mxGeometry x="570" y="524.5" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-514" value="发布人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="484" y="386" width="64" height="64" as="geometry" />
+          <mxGeometry x="420" y="394" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-515" value="发布时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="598" y="378" width="80" height="80" as="geometry" />
