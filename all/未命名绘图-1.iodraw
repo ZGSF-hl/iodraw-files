@@ -8,7 +8,7 @@
           <mxGeometry x="1290" y="300" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-197" value="申请 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="250" width="66" height="66" as="geometry" />
+          <mxGeometry x="1224" y="200" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-198" value="申请人学号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="926" y="120" width="95" height="95" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="1071" y="120" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-200" value="当前宿舍 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1216" y="118" width="98" height="98" as="geometry" />
+          <mxGeometry x="1200" y="70" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-201" value="目标宿舍 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1364" y="118" width="98" height="98" as="geometry" />
+          <mxGeometry x="1430" y="40" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-202" value="目标床位" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1512" y="128" width="79" height="79" as="geometry" />
