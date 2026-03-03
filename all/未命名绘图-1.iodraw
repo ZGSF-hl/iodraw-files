@@ -20,13 +20,13 @@
           <mxGeometry x="599" y="218" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-421" value="备注" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="729" y="314" width="48" height="48" as="geometry" />
+          <mxGeometry x="631" y="350" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-422" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="827" y="298" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="398" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-423" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="957" y="299" width="79" height="79" as="geometry" />
+          <mxGeometry x="880" y="308" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
