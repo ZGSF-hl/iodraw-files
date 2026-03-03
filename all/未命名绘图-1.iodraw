@@ -23,7 +23,7 @@
           <mxGeometry x="1130" y="267" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-282" value="操作人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="186" width="63" height="63" as="geometry" />
+          <mxGeometry x="1200" y="380" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-283" value="操作时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1395" y="178" width="79" height="79" as="geometry" />
