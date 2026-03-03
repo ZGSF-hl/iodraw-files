@@ -8,10 +8,10 @@
           <mxGeometry x="470" y="540" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-481" value="管理员 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="385" width="82" height="82" as="geometry" />
+          <mxGeometry x="450" y="670" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-482" value="管理员账号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="282" y="378" width="95" height="95" as="geometry" />
+          <mxGeometry x="320" y="505" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-483" value="密码" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="417" width="48" height="48" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="640" y="449.5" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-487" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="832" y="386" width="80" height="80" as="geometry" />
+          <mxGeometry x="663" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-488" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="962" y="386" width="79" height="79" as="geometry" />
+          <mxGeometry x="580" y="660" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
