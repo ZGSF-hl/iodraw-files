@@ -35,10 +35,10 @@
           <mxGeometry x="780" y="292" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-388" value="账号状态" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="600" width="79" height="79" as="geometry" />
+          <mxGeometry x="470" y="630" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-389" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="839" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-390" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="830" y="400" width="79" height="79" as="geometry" />
