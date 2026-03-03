@@ -61,7 +61,7 @@
             <mxPoint x="625.5" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-502" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eNCo281DgPEdL5TKnBAe-502" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-488">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="541" y="635" as="sourcePoint" />
             <mxPoint x="591" y="585" as="targetPoint" />
@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-503" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="558" as="sourcePoint" />
-            <mxPoint x="910" y="508" as="targetPoint" />
+            <mxPoint x="502" y="635" as="sourcePoint" />
+            <mxPoint x="552" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-504" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
