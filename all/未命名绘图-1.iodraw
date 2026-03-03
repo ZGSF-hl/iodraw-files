@@ -8,7 +8,7 @@
           <mxGeometry x="604" y="537" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-445" value="访客 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="827" y="585" width="66" height="66" as="geometry" />
+          <mxGeometry x="800" y="670" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-446" value="来访宿舍楼 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="336" y="348" width="115" height="115" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="1084" y="366" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-453" value="登记人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="374" width="64" height="64" as="geometry" />
+          <mxGeometry x="827" y="585" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-454" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1328" y="366" width="80" height="80" as="geometry" />
