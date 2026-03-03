@@ -31,13 +31,6 @@
         <mxCell id="eNCo281DgPEdL5TKnBAe-312" value="备注" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1424" y="194" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-313" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-304" target="eNCo281DgPEdL5TKnBAe-305">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="593" y="143" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-314" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-304" target="eNCo281DgPEdL5TKnBAe-306">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
