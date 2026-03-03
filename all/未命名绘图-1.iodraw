@@ -43,7 +43,7 @@
         <mxCell id="eNCo281DgPEdL5TKnBAe-208" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1520" y="110" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-221" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eNCo281DgPEdL5TKnBAe-221" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eNCo281DgPEdL5TKnBAe-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1375.5" y="245" as="sourcePoint" />
             <mxPoint x="1425.5" y="195" as="targetPoint" />
@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-227" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1614" y="450" as="sourcePoint" />
-            <mxPoint x="1664" y="400" as="targetPoint" />
+            <mxPoint x="1400" y="245" as="sourcePoint" />
+            <mxPoint x="1450" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-228" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
