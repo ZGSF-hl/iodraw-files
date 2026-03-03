@@ -20,7 +20,7 @@
           <mxGeometry x="670" y="410" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-449" value="手机号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="728" y="438" width="63" height="63" as="geometry" />
+          <mxGeometry x="737" y="438" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-450" value="来源地" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="790" y="501" width="64" height="64" as="geometry" />
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-455" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="510" y="657" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eNCo281DgPEdL5TKnBAe-467" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="590" as="sourcePoint" />
+            <mxPoint x="670" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
