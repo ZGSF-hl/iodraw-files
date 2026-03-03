@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-330" value="卫生检查记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="537" width="156" height="48" as="geometry" />
+          <mxGeometry x="790" y="580" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-331" value="检查 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="734" y="450" width="66" height="66" as="geometry" />
+          <mxGeometry x="724" y="434" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-332" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="660" y="630" width="99" height="99" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="800" y="690" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-334" value="检查原因" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="980" y="500" width="79" height="79" as="geometry" />
+          <mxGeometry x="980" y="460" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-335" value="检查人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="936" y="420" width="63" height="63" as="geometry" />
+          <mxGeometry x="850" y="420" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-336" value="检查时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="990" y="600" width="79" height="79" as="geometry" />
