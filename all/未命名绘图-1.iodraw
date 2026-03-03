@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-330" value="卫生检查记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="790" y="580" width="156" height="48" as="geometry" />
+          <mxGeometry x="820" y="585" width="116" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-331" value="检查 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="724" y="434" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-332" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="570" width="99" height="99" as="geometry" />
+          <mxGeometry x="660" y="559.5" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-333" value="检查结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="771" y="700" width="79" height="79" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="990" y="600" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-337" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="928" y="700" width="79" height="79" as="geometry" />
+          <mxGeometry x="913" y="700" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
