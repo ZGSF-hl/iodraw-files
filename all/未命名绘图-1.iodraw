@@ -14,7 +14,7 @@
           <mxGeometry x="545" y="426" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-447" value="访客姓名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="480" width="79" height="79" as="geometry" />
+          <mxGeometry x="470" y="480" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-448" value="性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="642" y="400" width="50" height="50" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="600" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-452" value="来访时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="451" y="565" width="80" height="80" as="geometry" />
+          <mxGeometry x="459" y="569" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-453" value="登记人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="585" width="64" height="64" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="700" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-455" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="501" y="649" width="79" height="79" as="geometry" />
+          <mxGeometry x="510" y="657" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
