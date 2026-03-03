@@ -11,13 +11,13 @@
           <mxGeometry x="800" y="670" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-446" value="来访宿舍楼 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="336" y="348" width="115" height="115" as="geometry" />
+          <mxGeometry x="510" y="365" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-447" value="访客姓名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="501" y="366" width="79" height="79" as="geometry" />
+          <mxGeometry x="460" y="480" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-448" value="性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="642" y="415" width="48" height="48" as="geometry" />
+          <mxGeometry x="690" y="390" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-449" value="手机号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="727" y="438" width="63" height="63" as="geometry" />
