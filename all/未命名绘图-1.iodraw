@@ -8,7 +8,7 @@
           <mxGeometry x="390" y="540" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-511" value="公告 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="385" width="66" height="66" as="geometry" />
+          <mxGeometry x="504" y="450" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-512" value="公告标题" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="226" y="379" width="79" height="79" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="420" y="394" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-515" value="发布时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="598" y="378" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-516" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="728" y="379" width="79" height="79" as="geometry" />
+          <mxGeometry x="405" y="650" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-517" value="删除标识" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="857" y="379" width="79" height="79" as="geometry" />
