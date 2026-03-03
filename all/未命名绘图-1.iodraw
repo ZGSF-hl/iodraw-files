@@ -8,13 +8,13 @@
           <mxGeometry x="780" y="537" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-331" value="检查 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="375" width="66" height="66" as="geometry" />
+          <mxGeometry x="734" y="450" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-332" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="566" y="358" width="99" height="99" as="geometry" />
+          <mxGeometry x="660" y="630" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-333" value="检查结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="715" y="368" width="79" height="79" as="geometry" />
+          <mxGeometry x="800" y="690" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-334" value="检查原因" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="980" y="500" width="79" height="79" as="geometry" />
