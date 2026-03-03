@@ -20,16 +20,16 @@
           <mxGeometry x="520" y="344" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-383" value="性别" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="623" y="377" width="48" height="48" as="geometry" />
+          <mxGeometry x="590" y="360" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-384" value="年龄" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="664" y="321" width="48" height="48" as="geometry" />
+          <mxGeometry x="650" y="400" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-385" value="手机号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="762" y="314" width="63" height="63" as="geometry" />
+          <mxGeometry x="698" y="522" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-386" value="邮箱" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="875" y="322" width="47" height="47" as="geometry" />
+          <mxGeometry x="680" y="460" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-387" value="负责楼宇ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="972" y="298" width="93" height="93" as="geometry" />
