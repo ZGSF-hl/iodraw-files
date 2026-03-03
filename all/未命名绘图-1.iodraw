@@ -29,16 +29,16 @@
           <mxGeometry x="955" y="366" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-452" value="来访时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="366" width="80" height="80" as="geometry" />
+          <mxGeometry x="800" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-453" value="登记人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="585" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-454" value="创建时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1328" y="366" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-455" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1458" y="366" width="79" height="79" as="geometry" />
+          <mxGeometry x="891" y="470" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
