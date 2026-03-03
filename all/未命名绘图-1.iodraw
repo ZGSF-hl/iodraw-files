@@ -8,7 +8,7 @@
           <mxGeometry x="931.5" y="380" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-305" value="记录 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="185" width="66" height="66" as="geometry" />
+          <mxGeometry x="1110" y="480" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-306" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="676" y="168" width="99" height="99" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry x="825" y="178" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-308" value="操作类型" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="954" y="178" width="79" height="79" as="geometry" />
+          <mxGeometry x="940" y="140" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-309" value="金额" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1006.5" y="280" width="49" height="49" as="geometry" />
+          <mxGeometry x="1020" y="267" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-310" value="操作人" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1182" y="186" width="63" height="63" as="geometry" />
+          <mxGeometry x="1120" y="400" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-311" value="操作时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1295" y="178" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-312" value="备注" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="194" width="48" height="48" as="geometry" />
+          <mxGeometry x="1100" y="320" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
