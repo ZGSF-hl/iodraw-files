@@ -11,10 +11,10 @@
           <mxGeometry x="724" y="434" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-332" value="宿舍房间 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="660" y="630" width="99" height="99" as="geometry" />
+          <mxGeometry x="650" y="570" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-333" value="检查结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="800" y="690" width="79" height="79" as="geometry" />
+          <mxGeometry x="771" y="700" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-334" value="检查原因" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="980" y="460" width="79" height="79" as="geometry" />
