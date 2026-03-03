@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eNCo281DgPEdL5TKnBAe-444" value="访客登记" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="811" y="250" width="124" height="48" as="geometry" />
+          <mxGeometry x="791" y="510" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-445" value="访客 ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="373" width="66" height="66" as="geometry" />
@@ -39,34 +39,6 @@
         </mxCell>
         <mxCell id="eNCo281DgPEdL5TKnBAe-455" value="更新时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1458" y="366" width="79" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-463" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-444" target="eNCo281DgPEdL5TKnBAe-452">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1124" y="323" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-464" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-444" target="eNCo281DgPEdL5TKnBAe-453">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1246" y="323" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-465" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-444" target="eNCo281DgPEdL5TKnBAe-454">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1368" y="323" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eNCo281DgPEdL5TKnBAe-466" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eNCo281DgPEdL5TKnBAe-444" target="eNCo281DgPEdL5TKnBAe-455">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1497" y="323" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
