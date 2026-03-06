@@ -20,7 +20,7 @@
           <mxGeometry x="520" y="740" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-27" value="adjust_room" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="401" y="247" width="150" height="48" as="geometry" />
+          <mxGeometry x="818" y="310" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-28" value="dorm_check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="148" height="48" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1120" y="510" width="105" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-33" value="repair" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="280" width="104" height="48" as="geometry" />
+          <mxGeometry x="1050" y="740" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-34" value="visitor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1090" y="90" width="106" height="48" as="geometry" />
