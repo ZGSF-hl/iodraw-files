@@ -145,13 +145,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-106" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1.01;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-83">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1256" y="1207" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
