@@ -61,11 +61,8 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1350" width="114" height="66" as="geometry" />
+          <mxGeometry x="1035" y="1350" width="114" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-77" value="notice&#xa;(通知)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="1220" width="105" height="66" as="geometry" />
