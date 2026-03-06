@@ -13,6 +13,9 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-24" value="student" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1215" y="148" width="114" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-25" target="o6idkAdHINdor-gnsHN7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-25" value="dorm_build" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="141" height="48" as="geometry" />
         </mxCell>
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-34" value="visitor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1090" y="90" width="106" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
