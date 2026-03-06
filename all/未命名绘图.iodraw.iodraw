@@ -80,10 +80,10 @@
           <mxGeometry x="673" y="1243" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-82" value="dorm_water&#xa;(水费记录)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1260" width="148" height="66" as="geometry" />
+          <mxGeometry x="1410" y="1190" width="148" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-83" value="adjust_room&#xa;(调宿申请)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1243" width="150" height="66" as="geometry" />
+          <mxGeometry x="1520" y="1286" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-84" value="visitor&#xa;(访客)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="1450" width="106" height="66" as="geometry" />
