@@ -8,7 +8,7 @@
           <mxGeometry x="712" y="1460" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="K8K_eP_pl_tKIZAlCimr-269" value="dorm_room" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1635" width="100" height="75" as="geometry" />
+          <mxGeometry x="360" y="1730" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="K8K_eP_pl_tKIZAlCimr-270" value="dorm_manager" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1460" width="112" height="75" as="geometry" />
@@ -112,6 +112,9 @@
             <mxPoint x="100" y="1585" as="sourcePoint" />
             <mxPoint x="150" y="1535" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K8K_eP_pl_tKIZAlCimr-295" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
