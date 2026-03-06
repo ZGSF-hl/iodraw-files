@@ -71,7 +71,7 @@
           <mxGeometry x="930" y="1220" width="105" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-78" value="dorm_check&#xa;(宿舍检查)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="1220" width="148" height="66" as="geometry" />
+          <mxGeometry x="1080" y="1220" width="148" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-79" value="repair&#xa;(维修申请)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="1243" width="136" height="66" as="geometry" />
