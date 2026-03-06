@@ -8,7 +8,7 @@
           <mxGeometry x="1349" y="1000" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-73" value="dorm_build&#xa;(宿舍楼)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="964" y="1000" width="141" height="66" as="geometry" />
+          <mxGeometry x="1090" y="1050" width="141" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-74" value="admin&#xa;(管理员)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="522" y="1104" width="120" height="66" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="729" y="1104" width="142" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="1410" width="114" height="66" as="geometry" />
+          <mxGeometry x="1075" y="1430" width="114" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-77" value="notice&#xa;(通知)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="1243" width="105" height="66" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1670" y="1243" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-84" value="visitor&#xa;(访客)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="765" y="920" width="106" height="66" as="geometry" />
+          <mxGeometry x="416" y="1364" width="106" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-86" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-72" target="o6idkAdHINdor-gnsHN7-73">
           <mxGeometry relative="1" as="geometry">
