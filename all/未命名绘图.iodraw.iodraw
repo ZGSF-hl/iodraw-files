@@ -11,10 +11,10 @@
           <mxGeometry x="1090" y="1050" width="141" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-74" value="admin&#xa;(管理员)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="522" y="1104" width="120" height="66" as="geometry" />
+          <mxGeometry x="673" y="1066" width="120" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-75" value="dorm_room&#xa;(宿舍房间)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="729" y="1104" width="142" height="66" as="geometry" />
+          <mxGeometry x="883" y="1070" width="142" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1075" y="1430" width="114" height="66" as="geometry" />
