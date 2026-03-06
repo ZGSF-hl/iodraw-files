@@ -34,6 +34,9 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1075" y="1430" width="114" height="66" as="geometry" />
         </mxCell>
