@@ -55,10 +55,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K8K_eP_pl_tKIZAlCimr-283" value="1:N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="K8K_eP_pl_tKIZAlCimr-271" target="K8K_eP_pl_tKIZAlCimr-269">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0689" y="54" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="1600" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K8K_eP_pl_tKIZAlCimr-285" value="1:N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.93;exitY=1;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="K8K_eP_pl_tKIZAlCimr-273" target="K8K_eP_pl_tKIZAlCimr-274">
@@ -112,9 +113,6 @@
             <mxPoint x="100" y="1585" as="sourcePoint" />
             <mxPoint x="150" y="1535" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="K8K_eP_pl_tKIZAlCimr-295" value="1：N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
