@@ -23,16 +23,13 @@
           <mxGeometry x="401" y="247" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-28" value="dorm_check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="247" width="148" height="48" as="geometry" />
+          <mxGeometry x="500" y="520" width="148" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-29" value="dorm_electric" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="320" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-30" value="dorm_water" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1009" y="247" width="148" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-31" value="health" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="247" width="106" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-32" value="notice" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1395" y="247" width="105" height="48" as="geometry" />
