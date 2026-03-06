@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o6idkAdHINdor-gnsHN7-22" value="admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="695" y="393" width="104" height="48" as="geometry" />
+          <mxGeometry x="810" y="370" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-23" value="dorm_manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="896" y="148" width="168" height="48" as="geometry" />
