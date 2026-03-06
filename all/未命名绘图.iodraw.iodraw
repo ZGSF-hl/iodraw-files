@@ -37,6 +37,9 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-74" target="o6idkAdHINdor-gnsHN7-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-74" target="o6idkAdHINdor-gnsHN7-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-74" value="admin&#xa;(管理员)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="673" y="1050" width="120" height="66" as="geometry" />
         </mxCell>
@@ -83,7 +86,7 @@
           <mxGeometry x="1520" y="1286" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-84" value="visitor&#xa;(访客)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1450" width="106" height="66" as="geometry" />
+          <mxGeometry x="777" y="1416" width="106" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.568;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-73" target="o6idkAdHINdor-gnsHN7-78">
           <mxGeometry relative="1" as="geometry" />
