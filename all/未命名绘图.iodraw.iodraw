@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="1350" width="114" height="66" as="geometry" />
+          <mxGeometry x="1200" y="1416" width="114" height="66" as="geometry" />
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-77" value="notice&#xa;(通知)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="1220" width="105" height="66" as="geometry" />
@@ -93,18 +93,6 @@
         </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.852;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-82" target="o6idkAdHINdor-gnsHN7-75">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-136" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1149" y="1532" as="sourcePoint" />
-            <mxPoint x="1199" y="1482" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-143" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1219" y="1602" as="sourcePoint" />
-            <mxPoint x="1269" y="1552" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
