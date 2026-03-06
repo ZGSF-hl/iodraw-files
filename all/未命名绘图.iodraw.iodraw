@@ -28,6 +28,12 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-75" value="dorm_room&#xa;(宿舍房间)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="883" y="1050" width="142" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-76" value="student&#xa;(学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1075" y="1430" width="114" height="66" as="geometry" />
         </mxCell>
@@ -135,13 +141,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1159" y="1207" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-105" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1.01;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-76" target="o6idkAdHINdor-gnsHN7-82">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1207" y="1207" />
             </Array>
           </mxGeometry>
         </mxCell>
