@@ -25,6 +25,9 @@
         <mxCell id="o6idkAdHINdor-gnsHN7-73" value="dorm_build&#xa;(宿舍楼)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1050" width="141" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="o6idkAdHINdor-gnsHN7-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-74" target="o6idkAdHINdor-gnsHN7-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6idkAdHINdor-gnsHN7-74" value="admin&#xa;(管理员)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="673" y="1050" width="120" height="66" as="geometry" />
         </mxCell>
@@ -88,13 +91,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="579" y="1207" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o6idkAdHINdor-gnsHN7-97" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1.01;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="o6idkAdHINdor-gnsHN7-74" target="o6idkAdHINdor-gnsHN7-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="676" y="1207" />
             </Array>
           </mxGeometry>
         </mxCell>
