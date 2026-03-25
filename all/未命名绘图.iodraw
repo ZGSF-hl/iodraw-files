@@ -19,11 +19,6 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-5" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="700" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-1" target="SFSxMMBPbfiS5_t7aIXh-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-3" target="SFSxMMBPbfiS5_t7aIXh-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -33,6 +28,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
