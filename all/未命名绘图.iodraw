@@ -32,15 +32,10 @@
           <mxGeometry x="90.5" y="640" width="79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-157" value="跳转对应首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="910" width="90.5" height="48" as="geometry" />
+          <mxGeometry x="84.75" y="760" width="90.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-158" value="结束" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105.25" y="980" width="62.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-151" target="SFSxMMBPbfiS5_t7aIXh-152">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="277.5" y="760" width="62.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-152" target="SFSxMMBPbfiS5_t7aIXh-153">
           <mxGeometry relative="1" as="geometry">
