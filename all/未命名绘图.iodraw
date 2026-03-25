@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-88" target="SFSxMMBPbfiS5_t7aIXh-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-88" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="93" height="48" as="geometry" />
         </mxCell>
@@ -11,10 +14,10 @@
           <mxGeometry x="15.75" y="90" width="101.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-91" value="分配管理楼栋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="170" width="97" height="48" as="geometry" />
+          <mxGeometry x="20" y="160" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-93" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23.25" y="310" width="94" height="48" as="geometry" />
+          <mxGeometry x="19.5" y="230" width="94" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
