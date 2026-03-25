@@ -4,39 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-75" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="20" width="78" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-76" value="新增访客登记" style="rounded=0;arcSize=33;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43.5" y="90" width="95" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-77" value="填写访客信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="44.5" y="160" width="94" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-78" target="SFSxMMBPbfiS5_t7aIXh-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-78" value="保存登记记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46.5" y="260" width="90" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44.5" y="340" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-75" target="SFSxMMBPbfiS5_t7aIXh-76">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-76" target="SFSxMMBPbfiS5_t7aIXh-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-77" target="SFSxMMBPbfiS5_t7aIXh-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
