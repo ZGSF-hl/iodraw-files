@@ -10,8 +10,8 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-123" value="查看全量访客记录" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="42" y="90" width="118" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-124" value="查询 / 导出记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="162" height="162" as="geometry" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-124" value="查询 / 导出&#xa;记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217" width="110" height="103" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-125" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="54" y="429" width="94" height="48" as="geometry" />
