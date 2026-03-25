@@ -8,10 +8,10 @@
           <mxGeometry x="100.5" y="480" width="72" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-152" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="537" width="92" height="48" as="geometry" />
+          <mxGeometry x="90.5" y="530" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-153" value="选择角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="662" width="124" height="48" as="geometry" />
+          <mxGeometry x="80" y="600" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-154" value="输入账号密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="58" y="760" width="156" height="48" as="geometry" />
