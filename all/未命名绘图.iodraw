@@ -7,8 +7,8 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-177" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="330" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-178" value="点击 “我的宿舍”" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="428" width="90" height="92" as="geometry" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-178" value="点击 “我的&#xa;宿舍”" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="56" y="400" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-179" value="获取宿舍 ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="644" width="143" height="48" as="geometry" />
