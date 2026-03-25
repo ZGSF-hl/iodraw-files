@@ -11,32 +11,15 @@
           <mxGeometry x="56" y="400" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-180" value="查询宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="743" width="156" height="48" as="geometry" />
+          <mxGeometry x="40" y="500" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-183" value="展示宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1038" width="157" height="48" as="geometry" />
+          <mxGeometry x="20" y="770" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-184" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="56" y="1136" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-177" target="SFSxMMBPbfiS5_t7aIXh-178">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="SFSxMMBPbfiS5_t7aIXh-180">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="103" y="658" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="SFSxMMBPbfiS5_t7aIXh-183">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="103.50000000000011" y="988" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-191" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-183" target="SFSxMMBPbfiS5_t7aIXh-184">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
