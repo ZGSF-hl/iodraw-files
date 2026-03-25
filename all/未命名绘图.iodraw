@@ -7,9 +7,6 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-31" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="191" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-32" value="查看调宿申请列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="310" width="188" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-33" value="查看申请详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-11.5" y="390" width="156" height="48" as="geometry" />
         </mxCell>
@@ -23,7 +20,7 @@
           <mxGeometry x="20" y="690" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="738" width="94" height="48" as="geometry" />
+          <mxGeometry x="30" y="780" width="94" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
