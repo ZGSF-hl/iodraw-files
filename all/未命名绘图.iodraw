@@ -11,10 +11,10 @@
           <mxGeometry x="25" y="490" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-214" value="提交报修单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="550" width="141" height="48" as="geometry" />
+          <mxGeometry x="32.5" y="561" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-216" value="查看处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="33" y="670" width="156" height="48" as="geometry" />
+          <mxGeometry x="25" y="630" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-217" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="56" y="760" width="94" height="48" as="geometry" />
