@@ -13,6 +13,9 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-152" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="480" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-153" target="SFSxMMBPbfiS5_t7aIXh-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-153" value="选择角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="248.5" y="550" width="80" height="48" as="geometry" />
         </mxCell>
@@ -41,11 +44,6 @@
           <mxGeometry x="277.5" y="760" width="62.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-152" target="SFSxMMBPbfiS5_t7aIXh-153">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-161" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-153" target="SFSxMMBPbfiS5_t7aIXh-154">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
