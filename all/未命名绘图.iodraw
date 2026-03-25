@@ -32,7 +32,7 @@
           <mxGeometry x="98" y="810" width="79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-157" value="跳转对应首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59.5" y="920" width="156" height="48" as="geometry" />
+          <mxGeometry x="59.5" y="920" width="90.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-158" value="结束" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105.25" y="990" width="62.5" height="33" as="geometry" />
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-171" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="749" width="60" height="30" as="geometry" />
+          <mxGeometry x="182.5" y="788" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
