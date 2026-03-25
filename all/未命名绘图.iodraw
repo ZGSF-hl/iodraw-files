@@ -23,6 +23,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-71" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="204" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-72" value="查看楼宇与房间信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="204" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
