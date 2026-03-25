@@ -14,20 +14,10 @@
           <mxGeometry x="45" y="601" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-5" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="700" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-3" target="SFSxMMBPbfiS5_t7aIXh-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-4" target="SFSxMMBPbfiS5_t7aIXh-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="45" y="700" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-12" value="点击水电费管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51.5" y="320" width="93" height="48" as="geometry" />
+          <mxGeometry x="52" y="280" width="93" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
