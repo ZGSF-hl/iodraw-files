@@ -32,7 +32,7 @@
           <mxGeometry x="98" y="810" width="79" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-157" value="跳转对应首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="920" width="156" height="48" as="geometry" />
+          <mxGeometry x="59.5" y="920" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-158" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="990" width="57" height="33" as="geometry" />
