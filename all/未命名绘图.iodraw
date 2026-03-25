@@ -11,16 +11,16 @@
           <mxGeometry x="50.5" y="320" width="105" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-198" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41" y="663" width="125" height="48" as="geometry" />
+          <mxGeometry x="40.5" y="400" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-199" value="等待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41" y="761" width="125" height="48" as="geometry" />
+          <mxGeometry x="41" y="570" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-200" value="查看审核结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="860" width="156" height="48" as="geometry" />
+          <mxGeometry x="25.5" y="660" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-201" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56" y="958" width="94" height="48" as="geometry" />
+          <mxGeometry x="50.5" y="750" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-197" target="SFSxMMBPbfiS5_t7aIXh-198">
           <mxGeometry relative="1" as="geometry">
