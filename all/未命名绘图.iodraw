@@ -25,16 +25,6 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1168" y="191" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-33" target="SFSxMMBPbfiS5_t7aIXh-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-34" target="SFSxMMBPbfiS5_t7aIXh-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-35" target="SFSxMMBPbfiS5_t7aIXh-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
