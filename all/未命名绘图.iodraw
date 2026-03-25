@@ -14,10 +14,10 @@
           <mxGeometry x="15.75" y="350" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-35" value="通过 / 驳回" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="25.25" y="430" width="78" height="75" as="geometry" />
+          <mxGeometry x="25.25" y="420" width="78" height="75" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-36" value="更新申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="19.63" y="530" width="92.25" height="48" as="geometry" />
+          <mxGeometry x="140" y="433.5" width="92.25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="94" height="48" as="geometry" />
