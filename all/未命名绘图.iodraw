@@ -4,6 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-88" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-89" value="查看宿管列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="20" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-90" value="新增 / 修改 / 删除宿管" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="369" y="20" width="224" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-91" value="分配管理楼栋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="643" y="20" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-92" value="更新状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="849" y="20" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-93" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="20" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-88" target="SFSxMMBPbfiS5_t7aIXh-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-89" target="SFSxMMBPbfiS5_t7aIXh-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-90" target="SFSxMMBPbfiS5_t7aIXh-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-91" target="SFSxMMBPbfiS5_t7aIXh-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-92" target="SFSxMMBPbfiS5_t7aIXh-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
