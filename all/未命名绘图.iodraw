@@ -7,9 +7,6 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-211" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="170" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-212" value="点击 “报修申请”" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="268" width="166" height="166" as="geometry" />
-        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-213" value="填写故障信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="484" width="156" height="48" as="geometry" />
         </mxCell>
@@ -24,16 +21,6 @@
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-217" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="56" y="878" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-218" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-211" target="SFSxMMBPbfiS5_t7aIXh-212">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-219" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-212" target="SFSxMMBPbfiS5_t7aIXh-213">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-220" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-213" target="SFSxMMBPbfiS5_t7aIXh-214">
           <mxGeometry relative="1" as="geometry">
