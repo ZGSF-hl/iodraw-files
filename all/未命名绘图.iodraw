@@ -14,7 +14,7 @@
           <mxGeometry x="50.5" y="320" width="105" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-198" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40.5" y="400" width="125" height="48" as="geometry" />
+          <mxGeometry x="63.75" y="390" width="79.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-201" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="56" y="460" width="94" height="48" as="geometry" />
