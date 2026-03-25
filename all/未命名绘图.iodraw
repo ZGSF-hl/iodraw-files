@@ -14,10 +14,10 @@
           <mxGeometry x="44.5" y="160" width="94" height="83" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-78" value="保存登记记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="411" width="90" height="48" as="geometry" />
+          <mxGeometry x="46.5" y="260" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-79" value="查询历史记录" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="35" y="510" width="126" height="48" as="geometry" />
+          <mxGeometry x="28.5" y="340" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="608" width="94" height="48" as="geometry" />
