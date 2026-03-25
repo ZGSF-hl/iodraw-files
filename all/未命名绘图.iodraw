@@ -8,7 +8,7 @@
           <mxGeometry x="57" y="250" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-196" value="点击 “申请调宿”" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="348" width="166" height="166" as="geometry" />
+          <mxGeometry x="20" y="348" width="140" height="102" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-197" value="填写调宿信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="564" width="156" height="48" as="geometry" />
