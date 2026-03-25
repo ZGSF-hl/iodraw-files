@@ -11,7 +11,7 @@
           <mxGeometry x="48" y="210" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-51" value="查看学生详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="337" width="156" height="48" as="geometry" />
+          <mxGeometry x="48" y="280" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-52" value="维护学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="435" width="156" height="48" as="geometry" />
