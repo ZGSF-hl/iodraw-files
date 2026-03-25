@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-31" target="SFSxMMBPbfiS5_t7aIXh-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-31" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="191" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-33" target="SFSxMMBPbfiS5_t7aIXh-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-33" value="查看申请详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="15.75" y="270" width="100" height="48" as="geometry" />
@@ -17,7 +23,7 @@
           <mxGeometry x="25.25" y="420" width="78" height="75" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-36" value="更新申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="433.5" width="92.25" height="48" as="geometry" />
+          <mxGeometry x="19.63" y="530" width="92.25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="94" height="48" as="geometry" />
