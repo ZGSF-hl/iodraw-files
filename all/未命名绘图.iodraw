@@ -5,39 +5,21 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-211" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="170" width="93" height="48" as="geometry" />
+          <mxGeometry x="50" y="420" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-213" value="填写故障信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="484" width="156" height="48" as="geometry" />
+          <mxGeometry x="25" y="490" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-214" value="提交报修单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="33" y="583" width="141" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-215" value="更新订单状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="681" width="156" height="48" as="geometry" />
+          <mxGeometry x="32.5" y="550" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-216" value="查看处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="780" width="156" height="48" as="geometry" />
+          <mxGeometry x="33" y="670" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-217" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56" y="878" width="94" height="48" as="geometry" />
+          <mxGeometry x="56" y="760" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-220" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-213" target="SFSxMMBPbfiS5_t7aIXh-214">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-221" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-214" target="SFSxMMBPbfiS5_t7aIXh-215">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-222" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-215" target="SFSxMMBPbfiS5_t7aIXh-216">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFSxMMBPbfiS5_t7aIXh-223" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-216" target="SFSxMMBPbfiS5_t7aIXh-217">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
