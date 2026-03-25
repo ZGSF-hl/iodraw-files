@@ -4,6 +4,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-31" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="191" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-32" value="查看调宿申请列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="191" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-33" value="查看申请详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="401" y="191" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-34" value="执行审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="607" y="191" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-35" value="通过 / 驳回" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="782" y="150" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-36" value="更新申请状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="962" y="191" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="191" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-31" target="SFSxMMBPbfiS5_t7aIXh-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-32" target="SFSxMMBPbfiS5_t7aIXh-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-33" target="SFSxMMBPbfiS5_t7aIXh-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-34" target="SFSxMMBPbfiS5_t7aIXh-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-35" target="SFSxMMBPbfiS5_t7aIXh-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-36" target="SFSxMMBPbfiS5_t7aIXh-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
