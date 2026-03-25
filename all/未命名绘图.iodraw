@@ -25,6 +25,9 @@
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-154" value="输入账号密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="550" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="SFSxMMBPbfiS5_t7aIXh-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFSxMMBPbfiS5_t7aIXh-155" target="SFSxMMBPbfiS5_t7aIXh-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-155" value="提交验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="620" width="90" height="48" as="geometry" />
         </mxCell>
