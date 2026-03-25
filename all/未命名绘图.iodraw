@@ -8,7 +8,7 @@
           <mxGeometry x="55" y="20" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-103" value="新增 / 编辑公告" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="118" width="162" height="162" as="geometry" />
+          <mxGeometry x="51" y="90" width="100" height="92" as="geometry" />
         </mxCell>
         <mxCell id="SFSxMMBPbfiS5_t7aIXh-105" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="320" width="125" height="48" as="geometry" />
