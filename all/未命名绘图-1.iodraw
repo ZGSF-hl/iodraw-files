@@ -33,6 +33,9 @@
         <mxCell id="lDBtEkPAXfJFi_nfY98l-31" value="填写访客&lt;div&gt;信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="600" width="90" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lDBtEkPAXfJFi_nfY98l-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="598" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
