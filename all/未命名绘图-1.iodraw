@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lDBtEkPAXfJFi_nfY98l-40" value="新增 / 编辑&lt;div&gt;公告&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="540" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
