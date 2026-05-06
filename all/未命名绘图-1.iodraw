@@ -30,7 +30,7 @@
         <mxCell id="lDBtEkPAXfJFi_nfY98l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDBtEkPAXfJFi_nfY98l-24" target="lDBtEkPAXfJFi_nfY98l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lDBtEkPAXfJFi_nfY98l-24" value="通过 / 驳回" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDBtEkPAXfJFi_nfY98l-24" value="填写维修详情" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="600" width="96" height="80" as="geometry" />
         </mxCell>
       </root>
